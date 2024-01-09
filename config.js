@@ -9,19 +9,19 @@ import moment from 'moment-timezone';
 import { es } from "./lib/idiomas/total-idiomas.js"
 
 
-global.botnumber = ""
+global.botnumber = "+525522744802"
 
 global.owner = [ 
-   ['573013114854', '👑 Sakura - Creador 👑', true],
-  ['573218138672', '💫 Sakura - Collaborator 1 💫', true],
-  ['573207200376', '💫 Sakura - Collaborator 2 💫', true],
-  ['573246822621', '💫 Sakura - Collaborator 3 💫', true],
-  ['573106909511', '💫 Sakura - Collaborator 4 💫', true],
-  ['51935499065', '💫 Sakura - Collaborator 5 💫', true],
-  ['526366923240', '💫 Sakura - Collaborator 6 💫', true],
-  ['51944167935', '💫 Sakura - Kiara 💫', false],
-  ['573001452386', '💫 Sakura - Collaborator 8 💫', true],
-  ['573003014644','💫 Sakura - Milena💫', true]
+   ['+525522744802', '👑 Sakura - Creador 👑', true],
+  ['+50686883513', '💫 Sakura - Collaborator 1 💫', true],
+  ['+1(858)3603985', '💫 Sakura - Collaborator 2 💫', true],
+  ['+525535858651', '💫 Sakura - Collaborator 3 💫', true],
+  ['+56939401942', '💫 Sakura - Collaborator 4 💫', true],
+  ['+525581523019', '💫 Sakura - Collaborator 5 💫', true],
+  ['+529981838454', '💫 Sakura - Collaborator 6 💫', true],
+  ['+50660018367', '💫 Sakura - Kiara 💫', false],
+  ['+523333920401', '💫 Sakura - Collaborator 8 💫', true],
+  ['+5493815092700','💫 Sakura - Milena💫', true]
 ];
 
 global.suittag = ['573013114854'];
